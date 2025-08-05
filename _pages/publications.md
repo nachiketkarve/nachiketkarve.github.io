@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: splash
 title: "Papers and Publications"
 permalink: /papers/
 author_profile: true
