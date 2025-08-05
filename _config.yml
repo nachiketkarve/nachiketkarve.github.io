@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Nachiket Karve"
+title                    : #"Nachiket Karve"
 title_separator          : "-"
 name                     : &name "Nachiket Karve"
 description              : &description "Personal website"
