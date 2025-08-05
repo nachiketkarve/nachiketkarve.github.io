@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nachiket Karve"
+title: #"Nachiket Karve"
 author_profile: true
 redirect_from: 
   - /about/
