@@ -13,3 +13,5 @@ author_profile: true
 [3] **N. Karve**, N. Rose, and D. Campbell. Adiabatic gauge potential as a tool for detecting chaos in classical systems. *Phys. Rev. Res.*, 7:033006, Jul 2025. doi:10.1103/1z5x-j644. URL [https://link.aps.org/doi/10.1103/1z5x-j644](https://link.aps.org/doi/10.1103/1z5x-j644).
 
 [4] **N. Karve**, N. Rose, and D. Campbell. Diffusion as a signature of chaos, 2025. URL [https://arxiv.org/abs/2507.18617](https://arxiv.org/abs/2507.18617).
+
+[5]
