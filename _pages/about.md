@@ -14,11 +14,11 @@ Projects
 
 ## Probing Chaos in Classical and Quantum Systems
 
-<img src="/images/stdPhaseT.jpeg" alt="drawing" width="200"/>
+<img align="left" src="/images/stdPhaseT.jpeg" alt="drawing" width="200"/>
 
 ## The Fermi--Pasta--Ulam--Tsingou Problem
 
-<img src="/images/highlightImage.jpeg" alt="drawing" width="200"/>
+<img align="right" src="/images/highlightImage.jpeg" alt="drawing" width="200"/>
 
 
 
