@@ -6,10 +6,4 @@ author_profile: true
 ---
 
 
-## Diffusion as a Signature of Chaos
-
-## Adiabatic Gauge Potential as a Tool for Detecting Chaos in Classical Systems
-
-## Periodic Orbits in Fermi--Pasta--Ulam--Tsingou Systems
-
-## Heisenberg Picture for Open Quantum Systems
+[1] N. Karve and R. Loganayagam. Heisenberg picture for open quantum systems, 2020. URL [https://arxiv.org/abs/2011.15118](https://arxiv.org/abs/2011.15118).
