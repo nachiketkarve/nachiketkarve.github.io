@@ -14,7 +14,7 @@ Projects
 
 ## Probing Chaos in Classical and Quantum Systems
 
-<img align="left" src="/images/stdPhaseT.jpeg" alt="drawing" width="200" style="padding-right: 20px"/>
+<img align="left" src="/images/stdPhaseT.jpeg" alt="drawing" width="200" style="padding-right: 10px; padding-bottom: 10px"/>
 
 In the world of everyday physics, we often describe a system as "chaotic" if it exhibits the famous "butterfly effect" -- where a tiny, almost unnoticeable change in its starting conditions leads to dramatically different outcomes down the line. This definition, however, completely breaks down in the quantum realm. Quantum mechanics is a linear theory, so the classic butterfly effect is impossible. For decades, physicists worked around this by defining a quantum system as chaotic only if its classical counterpart was chaotic, and then looked for tell-tale signatures of this chaos in the spacing of the quantum system's energy levels.
 
