@@ -16,7 +16,7 @@ Projects
 
 <img align="left" src="/images/stdPhaseT.jpeg" alt="drawing" width="200" style="padding-right: 10px"/>
 
-<BR CLEAR=”left” />
+<br clear=”left”/>
 
 ## The Fermi--Pasta--Ulam--Tsingou Problem
 
