@@ -20,6 +20,8 @@ In the world of everyday physics, we often describe a system as "chaotic" if it 
 
 More recently, however, work by Pandey et al. and Lim et al. has established a new, more fundamental way to connect these two worlds. They have shown that both classical and quantum chaos can be universally defined by a different kind of sensitivity: to adiabatic changes in the system. This provides a unified language to describe chaos, defining it as how any system reacts to slow, subtle changes.
 
+Our work reconciles these two different views of chaos. We've shown that the classic "butterfly effect" and the newer concept of sensitivity to adiabatic deformations are actually two sides of the same coin. At a fundamental level, both can be understood as a "diffusion" process. We can measure the rate of this spreading using a tool we call the "observable drift." Since this method reveals the same underlying diffusion process for both definitions, we've demonstrated that they aren't two separate ideas, but rather the same essential phenomenon viewed from different perspectives.
+
 ## The Fermi--Pasta--Ulam--Tsingou Problem
 
 <img align="right" src="/images/highlightImage.jpeg" alt="drawing" width="200"/>
