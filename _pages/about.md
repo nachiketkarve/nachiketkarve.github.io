@@ -9,7 +9,16 @@ redirect_from:
 
 Welcome! I am Nachiket, a 5th-year PhD candidate in the Department of Physics at Boston University. My research is focused on the intersection of chaos theory, nonlinear dynamics, and statistical mechanics. On this site, you will find my publications, an overview of my research projects, and my CV.
 
-![image](/images/stdPhaseT.jpeg)
+Projects
+===
+
+## Probing Chaos in Classical and Quantum Systems
+
+<img src="/images/stdPhaseT.jpeg" alt="drawing" width="200"/>
+
+## The Fermi--Pasta--Ulam--Tsingou Problem
+
+<img src="/images/highlightImage.jpeg" alt="drawing" width="200"/>
 
 
 
