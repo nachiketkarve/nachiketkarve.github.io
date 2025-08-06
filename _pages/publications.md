@@ -14,4 +14,4 @@ author_profile: true
 
 [4] **<u>N. Karve</u>**, N. Rose, and D. Campbell. Diffusion as a signature of chaos, 2025. URL [https://arxiv.org/abs/2507.18617](https://arxiv.org/abs/2507.18617).
 
-[5] N. Rose, **<u>N. Karve</u>**, and D.Campbell. Gradient of the adiabatic gauge potential in classical systems. *Manuscript in preparation*.
+[5] N. Rose, **<u>N. Karve</u>**, and D. Campbell. Gradient of the adiabatic gauge potential in classical systems. *Manuscript in preparation*.
