@@ -26,7 +26,8 @@ More recently, however, works by [Pandey *et al*.](https://journals.aps.org/prx/
 
 ## The Fermi--Pasta--Ulam--Tsingou Problem
 
-<img align="right" src="/images/highlightImage.jpeg" alt="drawing" width="200"/>
+<img align="right" src="/images/highlightImage.jpeg" alt="drawing" width="200"  style="padding-left: 10px; padding-bottom: 10px"/>
 
+The Fermi-Pasta-Ulam-Tsingou (FPUT) problem studies a simple, one-dimensional chain of interacting particles. In a landmark 1953 computer experiment, researchers expected that energy given to the system would quickly spread out evenly among all its modes, resulting in the thermalization of the system. Instead, they observed that the energy periodically returned to its initial state, a surprising phenomenon known as FPUT recurrence.
 
-
+After over 50 years of study, it is now understood that the system first gets trapped in a long-lasting, stable configuration called the "metastable state" before eventually thermalizing. Our work investigates the role of specific periodic states within the system known as q-breathers, where energy remains localized to a small number of modes. We have observed that the system's metastable state is actually a nonlinear superposition of these individual q-breathers. By studying resonances between these breathers, we can understand the mechanism that eventually destabilizes this metastable state and leads to true thermal equilibrium.
