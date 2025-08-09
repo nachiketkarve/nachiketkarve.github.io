@@ -20,12 +20,12 @@ Education
 
 Teaching
 ===
-* PY 105: Physics I, Teaching Fellow
+* Physics I (PY 105), Teaching Fellow
 
-* PY 106: Physics II, Teaching Fellow
+* Physics II (PY 106), Teaching Fellow
 
-* PY 211: General Physics I, Grader
+* General Physics I (PY 211), Grader
 
-* PY 212: General Physics I, Teaching Fellow and Grader
+* General Physics I (PY 212), Teaching Fellow and Grader
 
-* PY 536: Quantum Computing, Teaching Fellow and Guest Lecturer
+* Quantum Computing (PY 536), Teaching Fellow and Guest Lecturer
