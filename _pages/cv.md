@@ -29,3 +29,11 @@ Teaching
 * General Physics I (PY 212), Teaching Fellow and Grader
 
 * Quantum Computing (PY 536), Teaching Fellow and Guest Lecturer
+
+Mentorship and Academic Services
+===
+* Physical Review Referee
+
+* [Prayas](https://www.iitk.ac.in/dora/prayas), Head
+
+* Academic Mentor at IIT Kanpur
