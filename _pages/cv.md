@@ -30,6 +30,7 @@ Teaching
 
 * Quantum Computing (PY 536), Teaching Fellow and Guest Lecturer
 
+
 Mentorship and Academic Services
 ===
 * Physical Review Referee
