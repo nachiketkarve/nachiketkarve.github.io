@@ -26,7 +26,7 @@ Teaching
 
 * General Physics I (PY 211), Grader
 
-* General Physics I (PY 212), Teaching Fellow and Grader
+* General Physics II (PY 212), Teaching Fellow and Grader
 
 * Quantum Computing (PY 536), Teaching Fellow and Guest Lecturer
 
