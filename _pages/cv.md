@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my complete CV [here](./../files/cv.pdf)!
+
 Education
 ===
 * Ph.D in Physics, Boston University (ongoing) \
