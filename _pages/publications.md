@@ -5,6 +5,7 @@ permalink: /papers/
 author_profile: true
 ---
 
+1. **<u>N. Karve</u>**, N. Rose, H. Kim, D. K. Campbell, and A. Polkovnikov. Understanding Chaos through Physical Observables. Manuscript in preparation.
 
 1. N. Rose, **<u>N. Karve</u>**, and D. K. Campbell. Gradient of the adiabatic gauge potential in classical systems, 2025. URL [https://arxiv.org/abs/2508.03804](https://arxiv.org/abs/2508.03804).
 1. **<u>N. Karve</u>**, N. Rose, and D. Campbell. Diffusion as a signature of chaos, 2025. URL [https://arxiv.org/abs/2507.18617](https://arxiv.org/abs/2507.18617).
