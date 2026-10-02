@@ -5,6 +5,9 @@ permalink: /papers/
 author_profile: true
 ---
 
+1. **<u>N. Karve</u>** , N. Rose, D. Campbell, and A. Polkovnikov. Speed-Fisher Information:
+Chaos and Irreversibility in Classical and Quantum Dynamics, 2026. URL: [https://arxiv.org/abs/2609.35687](https://arxiv.org/abs/2609.35687).
+
 1. **<u>N. Karve</u>** , N. Rose, D. Campbell, and A. Polkovnikov. Universal Dynamical Response to Slow Driving in Chaotic Systems, 2026. URL: [https://arxiv.org/abs/2606.23810](https://arxiv.org/abs/2606.23810).
 
 1. **<u>N. Karve</u>**, N. Rose, H. Kim, P. Mehta, D. K. Campbell, and A. Polkovnikov. Understanding Chaos through Noise. Manuscript in preparation.

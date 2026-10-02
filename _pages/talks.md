@@ -4,7 +4,7 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
-
+1. [Universal Dynamical Response to Slow Driving in Chaotic Systems](./../files/CTEQ_Poster.pdf), Penn State University, June 2026.
 1. [Understanding Chaos through Physical Observables](./../files/DD_2026_Poster.pdf), University of Arizona, January 2026.
 1. [Chaos in Classical Systems](./../files/POE_Presentation_handout_v2.pdf), Boston University, May 2025.
 1. [Chaos in FPUT-like Systems](./../files/MM_2025_Presentation_handout.pdf), Anaheim, March 2025.
